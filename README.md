@@ -52,6 +52,7 @@ For Question 1.3:
 
 
 For Question 2:
+
 Given the nature of this challenge and limited data points, I made a few choices like to speed up computation and solve given problem:
 - Downsampling through random choice (15%)
 - Set Window length = 0
