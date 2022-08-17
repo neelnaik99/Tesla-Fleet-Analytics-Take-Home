@@ -8,12 +8,16 @@
 
 To recreate the virtual environment, run the following command inside the directory where this code is located
 ```
+
 conda env create -f environment.yml
+
 ```
 
 Then activate the virtual environment in terminal through the following command
 ```
+
 conda activate fleet_analytics_take_home
+
 ```
 
 <H2> Running the Script </H2>
@@ -26,6 +30,7 @@ The main script is <B> run.py </B> and can be run through terminal with the foll
 
 ```
 python run.py
+
 ```
 
 or through an IDE as long as the virtual environment fleet_analytics_take_home is configured to run.
@@ -35,6 +40,6 @@ or through an IDE as long as the virtual environment fleet_analytics_take_home i
     <B>dtaidistance.dtw</B>:
     https://dtaidistance.readthedocs.io/en/latest/usage/dtw.html#dtw-distance-measure-between-two-time-series
     
- 
+     
     
     
