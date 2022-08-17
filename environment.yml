@@ -1,4 +1,4 @@
-name: fleet_analytics_take_home2
+name: fleet_analytics_take_home
 channels:
   - conda-forge
   - defaults
