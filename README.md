@@ -41,6 +41,8 @@ or through an IDE as long as the virtual environment fleet_analytics_take_home i
    
    Dynamic Time Warping is a very effective way of measuring simalarity between two time series values of different lengths.
    
+   DTW is a very computationally complex algorithm and takes up a few minutes even after measures to reduce runtime.
+   
 <H2> Future Work </H2>
 
 For question 1.2:
@@ -59,6 +61,7 @@ Given the nature of this challenge and limited data points, I made a few choices
 - Not buidling a model to increase applicability 
 
 Given more time, I would love the implement a few enhancements:
+- Try out another time series classification algorithm like BOSS or RISE
 - Downsampling through decimation or resampling and deciding the downsampling factor by talking to relevant stakeholders and the classification accuracy/precision needed for a successful model
 - Building a generalizable model like TimeSeriesKMeans which leverages multiple datapoints and a train-test-cv split to make a robust model
 - TimeSeriesKMeans: https://tslearn.readthedocs.io/en/stable/user_guide/clustering.html
