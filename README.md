@@ -27,12 +27,14 @@ The main script is <B> run.py </B> and can be run through terminal with the foll
 ```
 python run.py
 ```
+
 or through an IDE as long as the virtual environment fleet_analytics_take_home is configured to run.
 
 
 <H2> External Libraries used </H2>
-
     <B>dtaidistance.dtw</B>:
     https://dtaidistance.readthedocs.io/en/latest/usage/dtw.html#dtw-distance-measure-between-two-time-series
+    
+ 
     
     
