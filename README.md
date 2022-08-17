@@ -3,8 +3,8 @@
 <H2> Environment Setup </H2>
 
 <H3> Preqrequsities </H3>
-- Python (3.8)
-- Anaconda (4.12.0)
+-  Python (3.8)
+-  Anaconda (4.12.0)
 
 To recreate the virtual environment, run the following command inside the directory where this code is located
 ```
