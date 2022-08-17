@@ -62,6 +62,8 @@ Given the nature of this challenge and limited data points, I made a few choices
 
 Given more time, I would love the implement a few enhancements:
 - Try out another time series classification algorithm like BOSS or RISE
+
+Optimize DTW:
 - Downsampling through decimation or resampling and deciding the downsampling factor by talking to relevant stakeholders and the classification accuracy/precision needed for a successful model
 - Building a generalizable model like TimeSeriesKMeans which leverages multiple datapoints and a train-test-cv split to make a robust model
 - TimeSeriesKMeans: https://tslearn.readthedocs.io/en/stable/user_guide/clustering.html
