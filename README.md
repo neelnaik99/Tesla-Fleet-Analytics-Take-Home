@@ -32,7 +32,7 @@ or through an IDE as long as the virtual environment fleet_analytics_take_home i
 
 <H2> External Libraries used </H2>
    
-   <H3>Dynamic Time Warping for Time Series</H3> : https://medium.com/@shachiakyaagba_41915/dynamic-time-warping-with-time-series-1f5c05fb8950
+   <B>Dynamic Time Warping for Time Series</B> : https://medium.com/@shachiakyaagba_41915/dynamic-time-warping-with-time-series-1f5c05fb8950
    
    <B> dtaidistance </B> :[https://dtaidistance.readthedocs.io](https://dtaidistance.readthedocs.io/en/latest/usage/dtw.html#dtw-distance-measure-between-two-time-series)
    
